@@ -150,7 +150,8 @@ The Power BI dashboard provides:
 
 ## 📷 Dashboard Preview
 
-<img width="1220" height="742" alt="Screenshot 2026-06-23 171738" src="https://github.com/user-attachments/assets/2198fe19-1b96-4f1e-b63f-ea9169826737" />
+<img width="1217" height="731" alt="Vendor Performance Analysis Dashboard" src="https://github.com/user-attachments/assets/ca8ba53a-aaa8-4059-8109-9369af110212" />
+
 
 
 
