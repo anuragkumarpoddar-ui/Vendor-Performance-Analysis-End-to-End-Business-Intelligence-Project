@@ -154,7 +154,6 @@ The Power BI dashboard provides:
 
 
 
-
 ## 💡 Business Recommendations
 
 * Revisit pricing strategies for high-margin, low-sales brands.
