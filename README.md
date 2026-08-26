@@ -153,7 +153,6 @@ The Power BI dashboard provides:
 <img width="1217" height="731" alt="Vendor Performance Analysis Dashboard" src="https://github.com/user-attachments/assets/ca8ba53a-aaa8-4059-8109-9369af110212" />
 
 
-
 ## 💡 Business Recommendations
 
 * Revisit pricing strategies for high-margin, low-sales brands.
