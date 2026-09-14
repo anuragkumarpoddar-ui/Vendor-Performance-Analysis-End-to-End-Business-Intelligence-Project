@@ -188,7 +188,6 @@ This analysis helps organizations:
 * Automated ETL pipelines using Airflow.
 * Real-time dashboard integration.
 
-
 ---
 
 ## 👨‍💻 Author
