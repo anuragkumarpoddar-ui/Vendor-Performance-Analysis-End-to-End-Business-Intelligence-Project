@@ -12,6 +12,7 @@ This project analyzes vendor performance, inventory efficiency, and profitabilit
 
 ---
 
+
 ## 🎯 Business Objectives
 
 The analysis aims to:
